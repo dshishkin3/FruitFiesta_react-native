@@ -1,5 +1,5 @@
 
-# FruitFiesta - react-native приложение для заказа еды
+# FruitFiesta - приложение для заказа еды
 
 ## Фичи
 
